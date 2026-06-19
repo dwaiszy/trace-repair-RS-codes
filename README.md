@@ -1,4 +1,4 @@
-# Trace Repair of Reed–Solomon Codes
+
 
 Research code accompanying the paper:
 
