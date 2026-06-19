@@ -1,8 +1,5 @@
 
-
-Research code accompanying the paper:
-
-> **Practical Considerations in Repairing Reed–Solomon Codes**
+> **Practical Considerations in Repairing Reed–Solomon Codes (Implementation)**
 > Thi Xinh Dinh, **Nhi Nguyen**, Lakshmi J. Mohan, Serdar Boztaş,
 > Tran Thi Luong, and Son Hoang Dau.
 > *2022 IEEE International Symposium on Information Theory (ISIT)*, pp. 2607–2612.
